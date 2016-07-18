@@ -4,8 +4,9 @@ public class OpenCode
 {
   public static void main(String[]args)
   {
-  
-  
+  System.out.println("Welcome to Open Code.");
+  System.out.println("This is a public java repository for anyone.");
+  System.out.println("Feel free to input some code.");
   
   }
 }
